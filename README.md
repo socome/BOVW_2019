@@ -24,7 +24,7 @@ for Recognizing Natural Scene Categories](https://inc.ucsd.edu/~marni/Igert/Laze
 | 2 | 600 | 8 | 256x256 | X | O | X | 0.60933 |
 | 2 | 600 | 8 | 256x256 | X | O | O | 0.62056 |
 
-[Base(41.6%)]()
+[Base(41.6%)]()</br>
 [Best(62%)](https://github.com/socome/BOVW_2019/blob/master/BOVW_Caltech101_62.ipynb)
 
 #### VLAD
