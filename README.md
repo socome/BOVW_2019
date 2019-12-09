@@ -34,6 +34,6 @@ for Recognizing Natural Scene Categories](https://inc.ucsd.edu/~marni/Igert/Laze
 -------------------------------------
 ### Reference
 
-[Histogram_intersection](https://github.com/wihoho/Image-Recognition/blob/5dc8834dd204e36172815345f0abe5640a4a37ef/recognition/classification.py#L10)</br>
-[VLAD](https://github.com/jorjasso/VLAD)
+##### [Histogram_intersection](https://github.com/wihoho/Image-Recognition/blob/5dc8834dd204e36172815345f0abe5640a4a37ef/recognition/classification.py#L10)</br>
+##### [VLAD](https://github.com/jorjasso/VLAD)
 -------------------------------------
