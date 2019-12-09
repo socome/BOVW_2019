@@ -26,9 +26,9 @@ for Recognizing Natural Scene Categories](https://inc.ucsd.edu/~marni/Igert/Laze
 
 #### VLAD
 
-| Level | codebook_size | step_size | img_size | background | histogram_intersection | accuracy |
-|:--------: |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| 0 | 600 | 8 | 256x256 | X | - | 0.63593 |
+| Level | codebook_size | step_size | img_size | background | accuracy |
+|:--------: |:--------:|:--------:|:--------:|:--------:|:--------:|
+| 0 | 600 | 8 | 256x256 | X | 0.63593 |
 
 
 -------------------------------------
