@@ -2,14 +2,14 @@
 
 ### Code Detail
 
-#### Load Data 1 (from caltech)
+#### Data Loader 1 (from caltech)
 
 ```
 !wget http://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz
 !tar -zxvf 101_ObjectCategories.tar.gz
 ```
 
-#### Load Data 2 (from kaggle)
+#### Data Loader 2 (from kaggle)
 
 ```
 ! kaggle competitions download -c 2019-ml-finalproject
