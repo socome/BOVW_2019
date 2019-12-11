@@ -1,6 +1,6 @@
 ## BOVW(Bag of Visual word) in Colab
 
-### Code Detail
+### Detail
 
 #### Data Loader 1 (from caltech)
 
