@@ -16,6 +16,23 @@
 ! unzip 2019-ml-finalproject.zip
 ```
 
+#### Codebook(Vocabulary)
+
+```
+(생략)
+
+train_des_arr = np.array(train_des[0])
+for remaining in tqdm(train_des[1:]):
+  train_des_arr = np.vstack((train_des_arr, remaining))
+
+seeding = kmc2.kmc2(train_des_arr, 200)
+Kmeas = MiniBatchKMeans(200, init=seeding).fit(train_des_arr)
+scaler = StandardScaler()
+
+Kmeas.cluster_centers_  // Codebook
+
+```
+
 #### SPM(Spatial Pyramid Matching)
 
 ```
